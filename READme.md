@@ -10,6 +10,7 @@
 #### Below are some of images illustrations on how to run a project and what to expect
 #### Start the game by clicking the run button: ![img_.png](img.png)
 #### This is how the board will look like: ![img_1.png](img2.png)
+#### Players moving: ![img_2.png](img3.png)
 ### Red player win: ![img_3.png](img4.png)
 ## Set Up Installation
 * *Project require internet to run*
