@@ -12,5 +12,3 @@ WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
 BLUE = (0, 0, 255 )
 GREY = (119, 136, 153)
-
-# CROWN = pygame.transform.scale(pygame.image.load(''), (44, 25))
