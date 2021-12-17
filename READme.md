@@ -1,5 +1,5 @@
 # DENNIS CHECKERS
-### This project is a two-person checkers game. Two people compete to win the game by making moves that will enable them outshine the opponent, 12/17/2021.
+### This project is a two-person checkers game. You need to download all the main, board, game, piece, and constant files to run this game. Two people compete to win the game by making moves that will enable them outshine the opponent, 12/17/2021.
 ### By [Dennis Yiaile](https://github.com/Dennis-tec)
 ### Github Url: https://github.com/Dennis-tec/checkers-game
 ## Description

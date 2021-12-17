@@ -1,5 +1,9 @@
-# add all the constants numbers and data here
+'''<DENNIS YIAILE'''
+
+
 import pygame
+
+# constants data is stored here
 
 WIDTH, HEIGHT = 500, 500      # height and width of the game board
 
