@@ -13,7 +13,7 @@
 ## Set Up Installation
 * *Require a laptop or computer*
 * *Can run best using pycharm or visual studio frameworks*
-* *Access it via: ``git clone https://github.com/Dennis-tec/checkers-game.git``*
+* *Access it by running: ``git clone https://github.com/Dennis-tec/checkers-game.git``*
 ## Known Bugs
 *None*
 ## Techlogies Used
